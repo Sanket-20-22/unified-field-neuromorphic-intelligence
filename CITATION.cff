@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or framework in your research, please cite it using the metadata below."
+authors:
+  - family-names: "Hazra"
+    given-names: "Sanket"
+    affiliation: "Jadavpur University"
+title: "Unified Field Neuromorphic Intelligence (UFNI)"
+version: "1.0.0"
+doi: "10.5281/zenodo.21916505"
+date-released: "2026-08-13"
+url: "https://github.com"
+repository-code: "https://github.com/Sanket-20-22/unified-field-neuromorphic-intelligence/tree/main"
+keywords:
+  - "neuromorphic computing"
+  - "homotopy type theory"
+  - "discrete spacetime networks"
+  - "graph-rewriting"
+  - "edge computing"
+license: "GPL-3.0"
