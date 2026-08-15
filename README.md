@@ -28,3 +28,11 @@ The UFNI architecture entirely breaks this monopoly loop:
 * **Hardware Cost Reduction:** Converts complex float arrays into pure 4D integer vectors, allowing models to run on standard, low-cost edge microcontrollers ($2-$5 chips) instead of high-end accelerator boards.
 * **90% Power Savings:** By hard-gating diagonal cross-dimensional data leakage and using pure `// 8` and `% 8` routines, on-chip data traffic drops drastically, doubling local battery lifespans for autonomous endpoint hardware.
 * **Complete Cloud Autonomy:** Operates 100% locally on endpoint devices, eliminating recurring data transmission bandwidth bills and server dependency.
+
+## Citation
+
+If you use this framework, the software engine, or the theoretical model in your academic or professional work, please cite it as follows:
+
+Hazra, S. (2026). *The System Architecture of Unified Field Neuromorphic Intelligence (UFNI)*. Zenodo. https://doi.org/10.5281/zenodo.21916505
+
+*(Note: You can also use the **"Cite this repository"** button on the right sidebar of this GitHub page to export the citation in BibTeX or APA formats natively via the provided `CITATION.cff` file).*
