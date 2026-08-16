@@ -14,6 +14,13 @@ This repository holds the foundational tracking index and software core for the 
 * `MMU_logic.ipynb`: Full operational 8-neighbor simulation array loop.
 * `/docs/assets/`: High-resolution monochrome system blueprints and stability graphs.
 
+## 💾 Native Engineering Prototype & Core Module
+This theoretical architecture has been compiled into a working low-level software prototype. The complete bare-metal bytecode maps, compiler scaffolding, and hardware runtime loops are actively hosted in our sister development node:
+
+*   **Native Prototype Repository**: [sovereign-l-prototype](https://github.com/Sanket-20-22/sovereign-l-prototype)
+*   **Unified Master Engine File**: [`UFNI_core.py`](https://github.com/Sanket-20-22/sovereign-l-prototype/blob/main/UFNI_core.py) — Integrating the complete 4D whole-number matrix coordinate math, the 8-neighbor orthogonal data buses, and the exact `// 8` floor division and `% 8` energy conservation loops into a ready-to-test Python system module.
+
+
 ## 📜 Intellectual Property & Citation Protection
 This framework is protected under the GNU General Public License v3.0. All derivative implementations must credit the original author: **Sanket Hazra (Jadavpur University)**. 
 
